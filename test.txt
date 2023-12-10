@@ -1,4 +1,4 @@
 Witaj s˜wiecie 
 Druga linia 
 Jeszcze jeden wpis
-feature_001 
+linia numer 4 
