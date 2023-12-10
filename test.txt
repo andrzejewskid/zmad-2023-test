@@ -1,4 +1,1 @@
-Witaj s˜wiecie 
-Druga linia 
-Jeszcze jeden wpis
-linia numer 4 
+Zmodyfikowane w serwisie GitHub.
